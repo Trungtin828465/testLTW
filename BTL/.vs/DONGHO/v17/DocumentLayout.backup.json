@@ -3,12 +3,18 @@
   "WorkspaceRootPath": "D:\\BTL C#\\BTL_W\\BTL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EEDD642-377D-4929-B08B-44ABC83FA3C5}|DONGHO.csproj|d:\\btl c#\\btl_w\\btl\\usercontrols\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EEDD642-377D-4929-B08B-44ABC83FA3C5}|DONGHO.csproj|solutionrelative:usercontrols\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EEDD642-377D-4929-B08B-44ABC83FA3C5}|DONGHO.csproj|D:\\BTL C#\\BTL_W\\BTL\\usercontrols\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7EEDD642-377D-4929-B08B-44ABC83FA3C5}|DONGHO.csproj|solutionrelative:usercontrols\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AA9E5-17AA-4FA0-917B-F4F4F3629594}|..\\BLL\\BLL.csproj|d:\\btl c#\\btl_w\\bll\\reportbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA97AC7-F1B7-403A-A23E-E1B87D38414C}|..\\DAL\\DAL.csproj|d:\\btl c#\\btl_w\\dal\\reportdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEDD642-377D-4929-B08B-44ABC83FA3C5}|DONGHO.csproj|d:\\btl c#\\btl_w\\btl\\usercontrols\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEDD642-377D-4929-B08B-44ABC83FA3C5}|DONGHO.csproj|solutionrelative:usercontrols\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,25 +56,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ReportBL.cs",
+              "DocumentMoniker": "D:\\BTL C#\\BTL_W\\BLL\\ReportBL.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\ReportBL.cs",
+              "ToolTip": "D:\\BTL C#\\BTL_W\\BLL\\ReportBL.cs",
+              "RelativeToolTip": "..\\BLL\\ReportBL.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:52:18.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportDL.cs",
+              "DocumentMoniker": "D:\\BTL C#\\BTL_W\\DAL\\ReportDL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\ReportDL.cs",
+              "ToolTip": "D:\\BTL C#\\BTL_W\\DAL\\ReportDL.cs",
+              "RelativeToolTip": "..\\DAL\\ReportDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:51:50.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "uc_Report.cs",
               "DocumentMoniker": "D:\\BTL C#\\BTL_W\\BTL\\Usercontrols\\uc_Report.cs",
               "RelativeDocumentMoniker": "Usercontrols\\uc_Report.cs",
-              "ToolTip": "D:\\BTL C#\\BTL_W\\BTL\\Usercontrols\\uc_Report.cs*",
-              "RelativeToolTip": "Usercontrols\\uc_Report.cs*",
-              "ViewState": "AgIAAKkBAAAAAAAAAAAQwLgBAABaAAAAAAAAAA==",
+              "ToolTip": "D:\\BTL C#\\BTL_W\\BTL\\Usercontrols\\uc_Report.cs",
+              "RelativeToolTip": "Usercontrols\\uc_Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T08:13:06.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "uc_Report.cs [Design]",
               "DocumentMoniker": "D:\\BTL C#\\BTL_W\\BTL\\Usercontrols\\uc_Report.cs",
               "RelativeDocumentMoniker": "Usercontrols\\uc_Report.cs",
-              "ToolTip": "D:\\BTL C#\\BTL_W\\BTL\\Usercontrols\\uc_Report.cs [Design]*",
-              "RelativeToolTip": "Usercontrols\\uc_Report.cs [Design]*",
+              "ToolTip": "D:\\BTL C#\\BTL_W\\BTL\\Usercontrols\\uc_Report.cs [Design]",
+              "RelativeToolTip": "Usercontrols\\uc_Report.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T08:02:06.873Z",
               "EditorCaption": " [Design]"
